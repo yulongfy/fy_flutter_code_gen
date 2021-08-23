@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yulongfy.fyfluttercodegen.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yulongfy.fyfluttercodegen.MyBundle
 
 class MyApplicationService {
 
